@@ -11,6 +11,7 @@ AI Engineer building production agentic systems, RAG pipelines, and LLM-powered 
 - **[Garry.ai](Private)** — AI-powered trading layer for prediction markets & event-driven investing
 - **[HireVanta.ai](https://github.com/Ansh318/HireVanta-AI)** — AI agents automating candidate screening for recruiting agencies
 - **[McDrive.ai](https://github.com/Ansh318/McDriveAI/)** - Voice AI QSR for McDonalds
+- **[SoccerX.ai](https://github.com/Ansh318/SoccerX.ai)** - AI for Soccer Analysts
 
 ---
 
