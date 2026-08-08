@@ -34,7 +34,7 @@ AI Engineer building production agentic systems, RAG pipelines, and LLM-powered 
 | Role | Company | Period |
 |------|---------|--------|
 | Applied AI & Data Consulting | Ernst & Young LLP | Jan 2026 – Jun 2026 |
-| Founder & CEO | KirayaEase Fintech LLP | Jun 2025 – May 2026 |
+| Founder | KirayaEase Fintech LLP | Jun 2025 – May 2026 | 0 --> 1 |
 | Forward Deployed AI Engineer | Howso Inc | Feb 2025 – Jun 2025 |
 | Software Developer, AI/ML | UBS Group AG | Jul 2023 – Jan 2025 |
 
