@@ -10,6 +10,7 @@ AI Engineer building production agentic systems, RAG pipelines, and LLM-powered 
 - **[PriceSavr.ai](https://github.com/Ansh318/PriceSavr)** — Cross-platform AI grocery price comparison across Blinkit, Zepto, and Instamart
 - **[Garry.ai](Private)** — AI-powered trading layer for prediction markets & event-driven investing
 - **[HireVanta.ai](https://github.com/Ansh318/HireVanta-AI)** — AI agents automating candidate screening for recruiting agencies
+- **[McDrive.ai](https://github.com/Ansh318/McDriveAI/)** - Voice AI QSR for McDonalds
 
 ---
 
