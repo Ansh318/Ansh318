@@ -4,12 +4,12 @@ AI Engineer building production agentic systems, RAG pipelines, and LLM-powered 
 
 ---
 
-## 🚀 What I'm working on
+## Notable Projects
 
 - **[KirayaEase](https://github.com/Ansh318/kirayaease)** — AI-native Rent Operating System with autonomous agents for rent collection, lease generation, and tenant communication. Selected for Google for Startups Cloud Program & Antler Immersion.
 - **PriceSavr.ai** — Cross-platform AI grocery price comparison across Blinkit, Zepto, and Instamart
 - **Garry.ai** — AI-powered trading layer for prediction markets & event-driven investing
-- **HireVanta.ai** — AI agents automating candidate screening for recruiting agencies
+- **[HireVanta.ai](https://github.com/Ansh318/HireVanta-AI)** — AI agents automating candidate screening for recruiting agencies
 
 ---
 
